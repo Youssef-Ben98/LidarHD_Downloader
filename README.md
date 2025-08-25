@@ -1,6 +1,6 @@
 #  Téléchargement automatique des dalles LiDAR HD de l’IGN
 
-Ce projet propose un script **Python** permettant de télécharger automatiquement les dalles **LiDAR HD** fournies par l’IGN, à partir d’une liste de liens `.laz`/`.las`.
+Ce script **Python** permettant de télécharger automatiquement les dalles **LiDAR HD** fournies par l’IGN, à partir d’une liste de liens `.laz`/`.las`.
 
 ---
 
